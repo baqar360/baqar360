@@ -61,6 +61,30 @@ A machine learning project for predicting house prices using data preprocessing,
 A machine learning project focused on predicting whether an e-commerce order will be returned.
 
 **Focus:** Machine Learning • Data Science • Predictive Modeling
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=baqar360&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baqar360&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baqar360&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=baqar360&theme=tokyo-night&hide_border=true" width="95%"/>
+</p>
 
 ---
 
